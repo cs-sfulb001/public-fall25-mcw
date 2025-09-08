@@ -8,15 +8,15 @@ Due: September 7, 2025
 
 ### Q1 - URL of GitHub Repo
 
-Insert your answer and explanation here
+https://github.com/cs-sfulb001/CS625/tree/main
 
 ### Q2 - Pull Command
 
-Insert your answer and explanation here
+The pull command pulls the changes from the remote onto the local machine
 
 ### Q3 - Local Commits
 
-Insert your answer and explanation here
+If the changes is not pushed in addition to commited then the repository will not be updated when viewed on Github.com
 
 ## Markdown
 
