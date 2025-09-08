@@ -22,15 +22,17 @@ If the changes is not pushed in addition to commited then the repository will no
 
 ### Q1 - Bulleted List
 
-Insert your answer and explanation here
+* This is a bulleted List
+* This simple list is not numbered
+* There is no order to this list
 
 ### Q2 - Markdown Paragraph
 
-Insert your answer and explanation here
+This paragraph contains some amount of **text**. The *importance* of this text is lacking. ***Pineapples*** are a type of fruit. The `code` is done as so. This [Report](https://github.com/cs-sfulb001/public-fall25-mcw/edit/main/fall-mcw-cs-sfulb001/HW1-report.md).
 
 ### Q3 - Animal Image
 
-Insert your answer and explanation here
+<img src="Snake.jpg" alt="This is a neat looking snake">
 
 ## Tableau
 
