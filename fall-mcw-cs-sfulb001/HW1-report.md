@@ -37,28 +37,30 @@ This paragraph contains some amount of **text**. The *importance* of this text i
 ## Tableau
 
 ### Q1 - Region Other Than the South
-
-<img TableauTable.png>
+Was unable to export table as image thus a screenshot was provided instead.
+<img src="TableauTable.PNG">
 
 ## Google Colab
 
 ### Q1 - URL of Google Colab Notebook
 
-Insert your answer and explanation here
+https://colab.research.google.com/drive/1YGJBrKkO2zbqD-6isefSf2G17Y8MkoU-?usp=sharing
 
 ## Python/Seaborn
 
 ### Q1 - First Penguin Image
 
-Insert your answer and explanation here
+<img src="PenguinScatterPlot.png">
+A scatter plot of bill depth vs bill length in mm
 
 ### Q2 - Second Penguin Image
 
-Insert your answer and explanation here
+<img src="BarPlot.png">
+A bar plot of species vs body mass in g
 
 ### Q3 - Outer Parenthesis
 
-Insert your answer and explanation here
+There is a syntax error as the interpreter does not know that the two lines should be one. 
 
 ## Observable and Vega-Lite
 
