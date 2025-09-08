@@ -38,7 +38,7 @@ This paragraph contains some amount of **text**. The *importance* of this text i
 
 ### Q1 - Region Other Than the South
 
-Insert your answer and explanation here
+<img TableauTable.png>
 
 ## Google Colab
 
